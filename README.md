@@ -37,3 +37,13 @@ Após a finalização da etapa acima, basta rodar:
 ```
 yarn dev
 ```
+
+## Rotas da aplicação
+
+É necessário utilizar o insomonia ou postman para as rotas
+
+Com o servidor rodando para utilizar a rota abaixo:
+
+```
+http://localhost:3333/compact
+```
